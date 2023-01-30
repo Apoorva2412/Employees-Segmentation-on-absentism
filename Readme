@@ -1,3 +1,4 @@
 This Project contains Employees Segmentation and clustering on absentism using various machine learning clustering algorithms like K-Means, Agglomerative Hierarchical, DBSCAN using PCA feature extractions method. 
+Initial Exploratory data anlysis is performed on the data set. 
 The models are compared with each other in order to find the best model for best possible clusters.
 The Models are created on entire dataset as well as extracted dataset extracted using  PCA technique. 
